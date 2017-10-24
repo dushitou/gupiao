@@ -1,0 +1,60 @@
+[ 2017-10-19T15:10:50+08:00 ] ::1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 29 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 30 行.
+
+[ 2017-10-19T15:10:52+08:00 ] ::1 /admin.php/Home/Stock/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 29 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 30 行.
+
+[ 2017-10-19T15:10:55+08:00 ] ::1 /admin.php/Home/Deposit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 29 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 30 行.
+
+[ 2017-10-19T15:10:57+08:00 ] ::1 /admin.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 29 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 30 行.
+
+[ 2017-10-19T15:11:00+08:00 ] ::1 /admin.php/Home/Withdraw/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 29 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 30 行.
+
+[ 2017-10-19T15:11:04+08:00 ] ::1 /admin.php/Home/Deposit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 29 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\admin\Home\Conf\config.php 第 30 行.
+

@@ -1,0 +1,511 @@
+array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:25:50.83835900',
+  1 => 'time=10',
+  2 => 'url=www.thinkphp.cn',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255083835900ms10293580r021e70f24587407bd551466f593d0320.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:25:50.83835900
+#time 10
+#url www.thinkphp.cn
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 10
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl www.thinkphp.cn
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255083835900ms10293580r021e70f24587407bd551466f593d0320.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255083835900ms10293580r021e70f24587407bd551466f593d0320.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:25:50.83835900
+rem time 10
+rem url www.thinkphp.cn
+@echo off
+echo %Date% %Time%
+ping -n 10 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe www.thinkphp.cn
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255083835900ms10293580r021e70f24587407bd551466f593d0320.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255083835900ms10293580r021e70f24587407bd551466f593d0320.bat
+exit
+',
+  9 => 'file_put_contents=458',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:25:52.13159700',
+  1 => 'time=10',
+  2 => 'url=www.thinkphp.cn',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255213159700ms17955018r021e70f24587407bd551466f593d0320.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:25:52.13159700
+#time 10
+#url www.thinkphp.cn
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 10
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl www.thinkphp.cn
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255213159700ms17955018r021e70f24587407bd551466f593d0320.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255213159700ms17955018r021e70f24587407bd551466f593d0320.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:25:52.13159700
+rem time 10
+rem url www.thinkphp.cn
+@echo off
+echo %Date% %Time%
+ping -n 10 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe www.thinkphp.cn
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255213159700ms17955018r021e70f24587407bd551466f593d0320.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404255213159700ms17955018r021e70f24587407bd551466f593d0320.bat
+exit
+',
+  9 => 'file_put_contents=458',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:26:31.02923900',
+  1 => 'time=10',
+  2 => 'url=http://localhost/',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404263102923900ms16645508r2518596fc40c2df51cd5b3cbd2cfa208.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:26:31.02923900
+#time 10
+#url http://localhost/
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 10
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404263102923900ms16645508r2518596fc40c2df51cd5b3cbd2cfa208.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404263102923900ms16645508r2518596fc40c2df51cd5b3cbd2cfa208.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:26:31.02923900
+rem time 10
+rem url http://localhost/
+@echo off
+echo %Date% %Time%
+ping -n 10 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404263102923900ms16645508r2518596fc40c2df51cd5b3cbd2cfa208.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404263102923900ms16645508r2518596fc40c2df51cd5b3cbd2cfa208.bat
+exit
+',
+  9 => 'file_put_contents=462',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:28:47.65649500',
+  1 => 'time=10',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404284765649500ms15627747r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:28:47.65649500
+#time 10
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 10
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404284765649500ms15627747r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404284765649500ms15627747r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:28:47.65649500
+rem time 10
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 10 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404284765649500ms15627747r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404284765649500ms15627747r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=512',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:29:20.78429300',
+  1 => 'time=1',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404292078429300ms12035523r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:29:20.78429300
+#time 1
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 1
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404292078429300ms12035523r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404292078429300ms12035523r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:29:20.78429300
+rem time 1
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 1 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404292078429300ms12035523r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404292078429300ms12035523r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:38:35.68684500',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404383568684500ms12695618r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:38:35.68684500
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404383568684500ms12695618r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404383568684500ms12695618r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:38:35.68684500
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404383568684500ms12695618r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404383568684500ms12695618r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:40:22.55434200',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404402255434200ms13683472r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:40:22.55434200
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404402255434200ms13683472r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404402255434200ms13683472r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:40:22.55434200
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404402255434200ms13683472r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404402255434200ms13683472r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:46:08.27432900',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460827532900ms16828309r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:46:08.27432900
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460827532900ms16828309r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460827532900ms16828309r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:46:08.27432900
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460827532900ms16828309r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460827532900ms16828309r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:46:08.80035900',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460880035900ms15709229r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:46:08.80035900
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460880035900ms15709229r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460880035900ms15709229r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:46:08.80035900
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460880035900ms15709229r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460880035900ms15709229r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:46:08.97837000',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460897837000ms17948304r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:46:08.97837000
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460897837000ms17948304r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460897837000ms17948304r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:46:08.97837000
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460897837000ms17948304r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460897837000ms17948304r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:46:09.13537900',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460913537900ms11851197r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:46:09.13537900
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460913537900ms11851197r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460913537900ms11851197r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:46:09.13537900
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460913537900ms11851197r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460913537900ms11851197r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:46:09.28438700',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460928438700ms10235291r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:46:09.28438700
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460928438700ms10235291r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460928438700ms10235291r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:46:09.28438700
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460928438700ms10235291r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460928438700ms10235291r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:46:09.43139500',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460943139500ms17695313r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:46:09.43139500
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460943139500ms17695313r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460943139500ms17695313r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:46:09.43139500
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460943139500ms17695313r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460943139500ms17695313r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:46:09.80841700',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/Count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460980941700ms12556458r3ab885768c126e1b635bcc536fac123f.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:46:09.80841700
+#time 3
+#url http://localhost/index.php/Home/Count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/Count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460980941700ms12556458r3ab885768c126e1b635bcc536fac123f.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460980941700ms12556458r3ab885768c126e1b635bcc536fac123f.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:46:09.80841700
+rem time 3
+rem url http://localhost/index.php/Home/Count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/Count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460980941700ms12556458r3ab885768c126e1b635bcc536fac123f.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404460980941700ms12556458r3ab885768c126e1b635bcc536fac123f.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)array (
+  0 => '��ʼ��Ӷ�ʱ����addTimer:2017-10-14 04:46:27.92942600',
+  1 => 'time=3',
+  2 => 'url=http://localhost/index.php/Home/count/test',
+  3 => 'file=D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404462792942600ms19765015r6179780dbfa9eaebff9bbf214cdcd5b6.bat',
+  4 => 'sys type=cmdStr',
+  5 => 'shellStr=',
+  6 => '#!/bin/sh
+# 2017-10-14 04:46:27.92942600
+#time 3
+#url http://localhost/index.php/Home/count/test
+echo `date +"%Y-%m-%d %H:%M:%S"`
+sleep 3
+echo `date +"%Y-%m-%d %H:%M:%S"`
+curl http://localhost/index.php/Home/count/test
+# delete file
+if [ -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404462792942600ms19765015r6179780dbfa9eaebff9bbf214cdcd5b6.bat ]; then
+    rm -f D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404462792942600ms19765015r6179780dbfa9eaebff9bbf214cdcd5b6.bat
+fi
+',
+  7 => 'cmdStr=',
+  8 => 'rem 2017-10-14 04:46:27.92942600
+rem time 3
+rem url http://localhost/index.php/Home/count/test
+@echo off
+echo %Date% %Time%
+ping -n 3 127.0.0.1>nul
+echo %Date% %Time%
+E:\\YS\\JAVA\\curl\\curl.exe http://localhost/index.php/Home/count/test
+rem delete file
+if exist D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404462792942600ms19765015r6179780dbfa9eaebff9bbf214cdcd5b6.bat del D:\\wamp\\cygupiao\\FileData\\basetimer\\shelldir\\2017101404462792942600ms19765015r6179780dbfa9eaebff9bbf214cdcd5b6.bat
+exit
+',
+  9 => 'file_put_contents=510',
+)

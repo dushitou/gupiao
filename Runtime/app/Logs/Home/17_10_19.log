@@ -1,0 +1,210 @@
+[ 2017-10-19T15:10:12+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:10:12+08:00 ] ::1 /index.php/Home/LoginRegister/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:10:12+08:00 ] ::1 /index.php/Home/Verfy/verfy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:10:12+08:00 ] ::1 /index.php/Home/LoginRegister/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:10:13+08:00 ] ::1 /index.php/Home/Verfy/verfy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:10:35+08:00 ] ::1 /index.php/Home/LoginRegister/loginhandle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:10:36+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:10:39+08:00 ] ::1 /index.php/Home/StockDeal/index?stockno=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:11:10+08:00 ] ::1 /index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:11:13+08:00 ] ::1 /index.php/Home/Desposit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:11:19+08:00 ] ::1 /index.php/Home/Desposit/prepay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:11:25+08:00 ] ::1 /index.php/Home/UserDeal/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:11:28+08:00 ] ::1 /index.php/Home/Detail/stock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+
+[ 2017-10-19T15:11:31+08:00 ] ::1 /index.php/Home/Detail/balance
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 4 行.
+NOTIC: [8] Use of undefined constant SESSION_AUTO_START - assumed 'SESSION_AUTO_START' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant MAIL_CON - assumed 'MAIL_CON' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant HOME_JS - assumed 'HOME_JS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 27 行.
+NOTIC: [8] Use of undefined constant HOME_CSS - assumed 'HOME_CSS' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 28 行.
+NOTIC: [8] Use of undefined constant GOEASY_APPKEY - assumed 'GOEASY_APPKEY' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 31 行.
+NOTIC: [8] Use of undefined constant PAY_URL - assumed 'PAY_URL' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 36 行.
+NOTIC: [8] Use of undefined constant MERCHANT_NO - assumed 'MERCHANT_NO' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 38 行.
+NOTIC: [8] Use of undefined constant TERMINAL_ID - assumed 'TERMINAL_ID' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 40 行.
+NOTIC: [8] Use of undefined constant ACCESS_TOKEN - assumed 'ACCESS_TOKEN' D:\wamp\cygupiao\Apps\app\Home\Conf\config.php 第 42 行.
+

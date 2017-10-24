@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>用户订单</title>
+</head>
+<body>
+    <h1>用户订单</h1>
+
+
+    <foreach name="list" item="vo">
+        股票编码 {$vo['s_stock_no']} ---
+        股票名称 {$vo['stock_poll']['s_stock_name']} ---
+
+        股票订单价 {$vo['s_stock_price']} 元 --- 
+        股票现价 {$vo['stock_new_price']['s_new_price']} 元 ---
+
+        剩余的可交易数量 {$vo['s_deal_number']} 手 ---
+
+        下单数量 {$vo['s_place_number']} 手 ---
+        
+
+        交易方式 
+        <span style="color:red"> 
+                <if condition="$vo['s_deal_type'] eq 1">
+                        买入
+                        <else /> 
+                        卖出
+                </if>
+
+        </span>
+        
+
+        ---
+
+        下单时间 {$vo['s_document_create_time']} ---
+
+
+        <span style="color:red"> 
+                <if condition="$vo['s_deal_state'] eq 1 AND $vo['deal_flag'] eq 1 ">
+                        已完成
+                        <elseif condition="$vo['deal_flag'] eq 0"/>
+                        已撤销
+                        <else /> 
+                        正在交易
+                </if>
+
+        </span> 
+
+        ---
+
+
+        <if condition="$vo['s_deal_state'] eq 1 AND $vo['deal_flag'] eq 1">
+                    <button disabled>已完成</button>
+                <elseif condition="$vo['deal_flag'] eq 0"/>
+                    <button disabled>已撤销</button>
+                <else /> 
+                <button class="recall-deal-btn" deal-recorde-id="{$vo['id']}"> 
+                    <a href="/index.php/Home/UserDeal/recalldeal?deal_no={$vo['s_deal_no']}">撤销订单</a>
+                </button>
+        </if>
+        
+
+
+
+        <hr>
+    </foreach>
+
+
+
+
+    <div class="result page">{$page}</div>
+
+
+
+</body>
+<script src="/Public/libs/jquery.min.js"></script>
+<script>
+    $(function(){
+
+
+
+
+
+    })
+</script>
+
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>注册页面</title>
+</head>
+<body>
+    <form action="/index.php/Home/LoginRegister/registerhandle" method="POST">
+        邮箱:<input class="email-input" type="email" name="user_email"  required value="1227026350@qq.com"> <br>
+        验证码： <input type="text" name="verfy" class="verfy-input"  required> <br>
+        邮箱验证码： <input type="text" name="email_verfy"  required> <br>
+        <img src="/index.php/Home/Verfy/verfy" title="看不清，点击修改" alt="验证码" id="verfy-img"> <br>
+        <hr>
+        密码: <input type="password" name="password"> <br>
+        <input type="submit" value="注册">
+        <button type="button"><a href="/index.php/Home/LoginRegister/login">登录</a></button>
+    </form>
+    <button class="verfy-btn">点击获取</button>
+
+</body>
+<script src="/Public/libs/jquery.min.js"></script>
+<script>
+    $(function(){
+        // 获取邮箱验证码
+        $('.verfy-btn').on('click',function(){
+            $('.verfy-btn').attr('disabled','true');
+            
+            var verfy=$('.verfy-input').val();
+            var email=$('.email-input').val();
+            $.ajax({
+                type:'POST',
+                url:'/index.php/Home/LoginRegister/send_verfy_to_email',
+                data:{
+                    email:email,
+                    verfy:verfy
+                },
+                success:function(data){
+                    if(data.statu==1){
+                        alert('验证码已发到您的邮箱!请注意查收')
+                    }else{
+                        alert('验证码错误');
+                        $('.verfy-btn').removeAttr('disabled');                    
+                    }
+                },
+                error:function(data){
+                    $('.verfy-btn').removeAttr('disabled');
+                }
+            })
+        });
+
+        // 更改验证码
+        $('#verfy-img').on('click',function(){
+            var timestamp=new Date().getTime();
+            $(this).attr({'src':'/index.php/Home/Verfy/verfy?time='+timestamp});
+        })
+        
+    });
+</script>
+</html>
